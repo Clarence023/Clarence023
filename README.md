@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Electronics and Communication Engineering (ECE) student passionate about embedded systems, IoT, AI, and drone technology. I love building innovative projects that combine ESP32, ESP8266, NRF24L01, SD card modules, sensors, and displays. Currently, I'm working on a JARVIS-like AI assistant in Python and exploring drone-based intelligent plant health monitoring.<br>🔧 Tech Stack<br>      🔹Embedded Systems: ESP32, ESP8266, NRF24L01, Arduino<br>      🔹Programming: Python, C, C++<br>      🔹AI & ML: OpenAI API, Computer Vision<br>      🔹IoT & Wireless: Wi-Fi, NRF24L01, RF Modules<br>      🔹Sensors & Modules: SSD1306, DHT11, SD Card, Motor Drivers<br>📌 Notable Projects<br>       🛰 Drone-based Plant Health Monitoring<br>       🔥 Flipper Zero-like ESP32 Device <br>       📡 2.4 GHz RF Scanner<br>       🚗 Wi-Fi Controlled Car <br>       🤖 JARVIS AI Assistant
+I'm an Electronics and Communication Engineering (ECE) student passionate about embedded systems, IoT, AI, and drone technology. I love building innovative projects that combine ESP32, ESP8266, NRF24L01, SD card modules, sensors, and displays. Currently, I'm working on a JARVIS-like AI assistant in Python and exploring drone-based intelligent plant health monitoring.<br>
 
 
 # 💻 Tech Stack:
