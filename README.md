@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm an Electronics and Communication Engineering (ECE) student passionate about embedded systems, IoT, AI, and drone technology. Currently, I'm working on a JARVIS-like AI assistant in Python and exploring drone-based intelligent plant health monitoring.<br>
+I'm an Electronics and Communication Engineering (ECE) student passionate about embedded systems, IoT, AI, and drone technology. 
+
+Currently, I'm working on a JARVIS-like AI assistant in Python and exploring drone-based intelligent plant health monitoring.<br>
 
 
 # 💻 Tech Stack:
